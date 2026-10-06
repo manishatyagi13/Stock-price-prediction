@@ -143,6 +143,6 @@ Stock-Price-Prediction/
 
 ## 👩‍💻 Author
 
-**Soumya Prasad**
+**Manisha Tyagi**
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI | Machine Learning
